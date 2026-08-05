@@ -1,5 +1,6 @@
 # Machine Learning Project
 
+The project:
 Using a dataset of 200 shopping mall customers, mall management wants some summary information about customer spending.  
 
 
