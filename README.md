@@ -33,3 +33,5 @@ Name the clusters based upon their respective locations on the visualization.
 Report spending habits for the clusters to mall management regarding age, gender & spending patterns.
 Use the features Gender and Age to determine the gender distribution and mean age for each cluster
 Create two dummy variables—Male and Female—to represent the Gender feature to note additional information about each cluster
+
+***** This was my first Machine Learning Project 
